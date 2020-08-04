@@ -1,5 +1,6 @@
 import express from "express";
 import routes from "./routes";
+import cors from "cors";
 
 const app = express();
 
@@ -13,6 +14,8 @@ const app = express();
 // Corpo (Request Body): Dados para a criação ou atualização de um registro
 // Route Params: Identificar qual recuros eu quero atualizar ou deletar
 // Query Params: PAginação, filtros, ordenação
+
+app.use(cors());
 
 app.use(express.json())
 
