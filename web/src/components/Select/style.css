@@ -2,6 +2,8 @@
     
     position:relative;
     padding: 0 1.6rem;
+    height: 8.8rem;
+    margin-bottom: 2rem;
     
 }
 
@@ -35,5 +37,18 @@
     position: absolute;
     left: 3rem;
     right: 6rem;
-    bottom:2.5rem;
+    bottom:0rem;
 }
+
+
+/* @media (min-width:700px){
+
+    .select-block{
+    
+        /* padding: 0; */
+        /* padding: 0 1rem 0 0; */
+        /* margin-right: 3rem; */
+        
+    /* } */
+    
+/* }  */
