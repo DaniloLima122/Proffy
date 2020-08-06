@@ -57,6 +57,11 @@ textarea{
 }
 
 
+button{
+    cursor: pointer;
+}
+
+
 @media (min-width: 700px){
 
     :root{
