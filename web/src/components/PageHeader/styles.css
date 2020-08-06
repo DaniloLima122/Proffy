@@ -37,7 +37,8 @@
 .page-header .header-content{
 
     position: relative;
-    margin: 3.2rem auto;
+    /* margin: 3.2rem auto; */   
+   margin: 3rem 3rem 6.4rem;
 
 }
 
@@ -45,7 +46,18 @@
     
     font: 700 3.6rem Archivo;
     line-height: 4.2rem;
-    color: var(--color-title-in-primary)
+    color: var(--color-title-in-primary);
+    max-width: 150px;
+}
+
+
+.page-header .header-content p{
+    
+    max-width: 30rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    color: var(--color-text-in-primary);
+    margin-top: 2.4rem;
 }
 
 
@@ -67,7 +79,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: flex-start;
-        max-width:80%;
+        width:60%;
     }
     
     .page-header .header-content strong{
