@@ -32,12 +32,11 @@ export default function Landing() {
 
     useEffect(() => {
 
-        const totalConnections = api.get("connections")
+        api.get("connections")
             .then(({data: {total}}) => {
 
                 settotalConnections(total)
             })
-
         
 
     },[])
