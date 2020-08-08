@@ -84,6 +84,11 @@ const styles = StyleSheet.create({
         marginRight: 9
     },
 
+    favorited: {
+
+        backgroundColor: "#e33d3d",
+    },
+
     contactButton: {
         backgroundColor: "#04d361",
         flex:1,
