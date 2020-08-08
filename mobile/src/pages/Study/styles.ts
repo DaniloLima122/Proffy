@@ -13,7 +13,6 @@ const styles = StyleSheet.create({
 
     searchForm: {
         marginBottom: 20,
-        // height: 270
     },
 
     label: {
@@ -46,10 +45,11 @@ const styles = StyleSheet.create({
         backgroundColor: "#04d361",
         flexDirection: "row",
         height: 56,
+        width: "100%",
         borderRadius: 8,
         justifyContent: "center",
         alignItems:"center",
-        marginRight: 9
+        marginRight: 9,
     },
 
     submitButtonText: {
