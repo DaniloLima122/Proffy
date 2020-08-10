@@ -15,8 +15,7 @@
 
 <br>
 
-<img src="./mockup.png"/>
-
+![](mockup.png)
 
 ## Projeto
 
