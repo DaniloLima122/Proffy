@@ -148,7 +148,7 @@ Este projeto ainda pode ser melhorado e para contribuir é simples, siga os segu
 - Faça um fork desse repositório;
 - Crie uma branch com a sua feature: `git checkout -b nova-feature`;
 - Faça commit das suas alterações: `git commit -m 'my-feature'`;
-- Faça push para a sua branch: `git push origin my-feature`.
+- Faça push para a sua branch: `git push origin nova-feature`.
 
 Depois que o merge da sua pull request ser concluido, você pode deletar a branch da sua feature.
 
