@@ -162,7 +162,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md).
 - [Equipe RocketSeat](https://rocketseat.com.br/)
 - [Diego Fernandes, CTO da Rocketseat](https://github.com/diego3g)
 
----
 
 Made with ♥ by Danilo Lima
 
