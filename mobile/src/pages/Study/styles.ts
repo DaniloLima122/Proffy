@@ -38,6 +38,7 @@ const styles = StyleSheet.create({
         paddingHorizontal:16,
         marginTop: 4,
         marginBottom: 16,
+        fontSize:14,
         
     },
 
@@ -54,7 +55,22 @@ const styles = StyleSheet.create({
 
     submitButtonText: {
         color:"#fff"
-    }
+    },
+    
+    selectPicker: {
+        height: 54,
+        backgroundColor: "#fff",
+        borderRadius: 8,
+        paddingHorizontal: 10,
+        paddingVertical: 1,
+        marginTop: 7,
+        marginBottom: 16,
+
+    },
+
+    picker: {
+        color: "#ccc",
+    },
 
 })
 export default styles;
