@@ -26,8 +26,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
-- [Node.js](https://nodejs.org/en/)
+- ##### Back-end:
+  - [Node.js](https://nodejs.org/en/)
+  - [Express](https://expressjs.com/pt-br/)
+  - [Knex.js](http://knexjs.org/)
+
+- ##### Front-end:
+- [ReactJS](https://reactjs.org)
+
+
+- ##### Mobile:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
